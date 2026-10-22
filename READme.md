@@ -242,7 +242,5 @@ AES Folder Encryptor v3.0.0 — Developed by Dongeun Kim
 
 Contact:
 
-Instagram: @kxznv.7  
-
 Email: ghmeundong@gmail.com
 
